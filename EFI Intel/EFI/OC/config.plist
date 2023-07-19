@@ -1237,7 +1237,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02004102QXJH4RJC</string>
+			<string>xxxxxxxxxxxxxxxxx</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
@@ -1249,9 +1249,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro15,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02C56ZDJHCC</string>
+			<string>xxxxxxxxxxxx</string>
 			<key>SystemUUID</key>
-			<string>FBD1590E-9442-447D-9AB5-C29F650EAECC</string>
+			<string>xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
